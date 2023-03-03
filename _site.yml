@@ -1,6 +1,6 @@
-name: "Investors History"
+name: "Investor History"
 navbar:
-  title: "Investors History"
+  title: "Investor History"
   left:
     - text: "Home"
       href: index.html
