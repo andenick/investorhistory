@@ -17,16 +17,16 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **The Investor's History of the United States**
+# **Investor History**
 
-This is a defunct site. 
+This is a new site. Nothing interesting here yet!
 
 
 
 </div>
 <div class="col-sm-6">
-asdasd
-#asd
+ asdasd
+# asd
 
 </a>
 </div>

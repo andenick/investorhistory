@@ -1,5 +1,5 @@
 ---
-title: "Journal"
+title: "Investor's History"
 output:
   html_document:
     toc: true
@@ -48,4 +48,6 @@ To do for Investor's History of the USA
 
 16. Unions
 
-17. 
+17. Lobbying
+
+18. 

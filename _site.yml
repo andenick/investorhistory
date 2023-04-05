@@ -5,14 +5,12 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Investor History"
-      href: ih-body.html
-    - text: "Data"
-      href: ih-data.html
-    - text: "Bibliography"
-      href: ih-bibliography.html
+      href: body.html
+    - text: "Sources"
+      href: sources.html
     - text: "About"
-      href: ih-about.html
+      href: about.html
     - text: "Contact"
-      href: ih-contact.html
+      href: contact.html
       
 output_dir: "docs"

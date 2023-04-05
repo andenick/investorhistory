@@ -1,8 +1,0 @@
----
-title: "Data"
-output: html_document
----
-
-### R and R-Studio
-
-asd
