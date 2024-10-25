@@ -1,13 +1,13 @@
-name: "Nick Anderson"
+name: "Investor History"
 navbar:
-  title: "Nick Anderson"
+  title: "Investor History"
   left:
-    - text: "Home & General"
+    - text: "Home"
       href: index.html
-    - text: "Economic History"
-      href: economichistory.html
-    - text: "Data"
-      href: data.html
+    - text: "Investor History"
+      href: body.html
+    - text: "Sources"
+      href: sources.html
     - text: "About"
       href: about.html
     - text: "Contact"
